@@ -1,5 +1,9 @@
 # 🚆 Railway Ticket Reservation System
 
+![Java](https://img.shields.io/badge/Java-17-orange) ![OOP](https://img.shields.io/badge/OOP-Design%20Patterns-blue)
+
+A console-based Railway Ticket Reservation System built in Java, simulating a real-world system like IRCTC — with dynamic seat allocation, RAC/Waiting list promotion, and multiple payment strategies. Built to apply OOP, SOLID principles, and design patterns in a practical, end-to-end project.
+
 A console-based **Railway Ticket Reservation System** developed in **Java** using Object-Oriented Programming (OOP), SOLID principles, Java Collections Framework, and Design Patterns. The application simulates a real-world railway reservation system by supporting booking, cancellation, dynamic seat allocation, RAC, waiting list management, and multiple payment methods.
 
 ---
