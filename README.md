@@ -159,6 +159,8 @@ Main.java
 * Seat Preference Allocation
 
 ---
+## Author
+Yashasvi Sakshi
 
 
 
